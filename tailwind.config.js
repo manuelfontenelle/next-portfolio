@@ -8,7 +8,9 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				burtons: "burtons",
+				burtons: "Burtons",
+				playfairDisplay: ["Playfair Display", "sans-serif"],
+				inter: ["Inter", "sans-serif"],
 				poppins: ["Poppins", "sans-serif"],
 			},
 		},
