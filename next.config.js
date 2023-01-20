@@ -14,9 +14,9 @@ module.exports = {
 		includePaths: [path.join(__dirname, "styles")],
 	},
 
-	// ACTIVER POUR EXPORT PROJET
 	images: {
 		unoptimized: true,
 	},
+
 	// assetPrefix: "./",
 }
