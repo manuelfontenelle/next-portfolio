@@ -8,10 +8,12 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				burtons: "Burtons",
+				burtons: "Burtons", //custom font otf
+				// google fonts
 				playfairDisplay: ["Playfair Display", "sans-serif"],
 				inter: ["Inter", "sans-serif"],
 				poppins: ["Poppins", "sans-serif"],
+				// google fonts
 			},
 		},
 	},
